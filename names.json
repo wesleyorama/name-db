@@ -9,8 +9,7 @@
             "guj": "વૃંદા",
             "hin": "वृंदा",
             "nep": "वृंदा",
-            "kan":"ವೃಂದಾ",
-            "pol": "Bazylia"
+            "kan":"ವೃಂದಾ"
         }
     },
     {
@@ -73,8 +72,7 @@
             "hin": "डेन्यल",
             "por": "Daniel",
             "deu": "Daniel",
-            "kan":"ಡೇನಿಯಲ್",
-            "pol": "Adam"
+            "kan":"ಡೇನಿಯಲ್"
         }
     },
     {
@@ -87,8 +85,7 @@
             "hin": "एंडी",
             "por": "André",
             "deu": "Anreas",
-            "kan":"ಆಂಡಿ",
-            "pol": "Andrzej"
+            "kan":"ಆಂಡಿ"
         }
     },
     {
@@ -110,8 +107,7 @@
             "slv": "Jasper",
             "heb": "קספר",
             "hin": "जैस्पर",
-            "kan": "ಜಾಸ್ಪರ್",
-            "pol": "Kacper"
+            "kan": "ಜಾಸ್ಪರ್"
         }
     },
     {
@@ -124,8 +120,7 @@
             "slv": "Emilija",
             "heb": "אמילי",
             "por": "Emilia",
-            "kan": "ಎಮಿಲಿ",
-            "pol": "Emilia"
+            "kan": "ಎಮಿಲಿ"
         }
     },
     {
@@ -166,8 +161,7 @@
             "heb": "יוסף",
             "arb": "جوزف",
             "por": "José",
-            "deu": "Josef",
-            "pol": "Józef"
+            "deu": "Josef"
         }
     },
     {
@@ -190,8 +184,7 @@
             "fra": "Benjamin",
             "deu": "Benjamin",
             "heb": "בנג'מין",
-            "rus": "Бенджамен",
-            "pol": "Benjamin"
+            "rus": "Бенджамен"
         }
     },
     {
@@ -229,8 +222,7 @@
             "fra": "Patrice",
             "lat": "Patricius",
             "spa": "Patricio",
-            "deu": "Patrick",
-            "pol": "Patryk"
+            "deu": "Patrick"
         }
     },
     {
@@ -272,11 +264,11 @@
         "translations": {
             "fra": "Gabriel",
             "fin": "Kaapo",
-            "hye": "Գաբրիել",
             "rus": "Gavril",
             "spa": "Gabian",
             "por": "Gabriel",
-            "deu": "Gabriel"
+            "deu": "Gabriel",
+            "pol": "Gabriel"
         }
     },
     {
@@ -294,8 +286,7 @@
         "meaning": "Norse for \"God Ingva's fighter\"",
         "translations": {
             "rus": "Игорь",
-            "ukr": "Iгор",
-            "pol": "Igor"
+            "ukr": "Iгор"
         }
     },
     {
@@ -303,8 +294,7 @@
         "meaning": "Beloved or friend, adopted from Hebrew",
         "translations": {
             "afr": "Dawid",
-            "deu": "David",
-            "hye": "Դավիթ"
+            "deu": "David"
         }
     },
     {
@@ -342,8 +332,7 @@
             "fra": "Marc",
             "rus": "Марк",
             "spa": "Marcos",
-            "deu": "Mark",
-            "pol": "Marek"
+            "deu": "Mark"
         }
     },
     {
@@ -352,7 +341,7 @@
         "translations": {
             "fra": "Jules",
             "ita": "Giulio",
-            "pol": "Juliusz",
+            "pol": "Julek",
             "por": "Júlio",
             "ron": "Iuliu",
             "rus": "Yuliy",
@@ -375,8 +364,7 @@
         "translations": {
             "fra": "Maurice",
             "deu": "Moritz",
-            "ita": "Maurizio",
-            "pol": "Maurycy"
+            "ita": "Maurizio"
         }
     },
     {
@@ -401,8 +389,7 @@
             "deu": "Sofia",
             "pol": "Sophię",
             "ron": "Sophiei",
-            "rus": "София",
-            "pol": "Zofia"
+            "rus": "София"
         }
     },
     {
@@ -445,8 +432,7 @@
             "ise": "Tommaso",
             "spa": "Tomás",
             "por": "Toma",
-            "rms": "Thomas",
-            "pol": "Tomasz"
+            "rms": "Thomas"
         }
     },
     {
@@ -468,6 +454,12 @@
         "meaning": "Greek for \"Defending men\"",
         "transaltions": {
             "pol": "Aleksander"
+        }
+    },
+        {
+        "name": "Wesley",
+        "meaning": "Transferred use of the surname taken from the place-name Westley which is derived from the Old English elements west (west) and lēah (wood, clearing, meadow). The surname has the definition 'dweller near the western wood or clearing.'",
+        "translations": {
         }
     },
     {
